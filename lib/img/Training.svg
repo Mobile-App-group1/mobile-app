@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="146" height="148" viewBox="0 0 146 148">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_55" data-name="Rectangle 55" width="99.798" height="64.575" transform="translate(114 744)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_469" data-name="Group 469" transform="translate(-192 -574)">
+    <g id="Group_4" data-name="Group 4" transform="translate(155 -99)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="146" height="148" rx="20" transform="translate(37 673)" fill="#06a"/>
+    </g>
+    <g id="Group_151" data-name="Group 151" transform="translate(180 95)">
+      <text id="Training" transform="translate(85 605)" fill="#fff" font-size="22" font-family="Poppins-Regular, Poppins"><tspan x="-44.418" y="0">Training</tspan></text>
+    </g>
+    <g id="Mask_Group_9" data-name="Mask Group 9" transform="translate(101 -146)" clip-path="url(#clip-path)">
+      <g id="video" transform="translate(131.611 744)">
+        <path id="Path_95" data-name="Path 95" d="M56.125,38.859a21.79,21.79,0,1,1-21.79-21.791,21.789,21.789,0,0,1,21.79,21.791ZM28.574,29.588a2.044,2.044,0,0,0-1.055,1.78V46.349a2.047,2.047,0,0,0,3.117,1.736l12.257-7.491a2.045,2.045,0,0,0,0-3.489L30.635,29.615a2.065,2.065,0,0,0-2.068-.042Z" transform="translate(-2.048 -6.571)" fill="#fff"/>
+        <path id="Path_96" data-name="Path 96" d="M67.026,41.691l-2.042-4.714,4.685-4.371-3.152-7.243-6.391.447-2.049-4.722L53.295,19.2l.2-6.4-7.32-2.884-4.221,4.828-4.784-1.887L32.46,14.9l-4.379-4.677-7.232,3.136.452,6.4L16.579,21.8,14.691,26.6l-6.414-.218L5.393,33.7l4.824,4.221L8.335,42.711,10.4,47.423,5.7,51.8l3.146,7.229,6.4-.448L17.294,63.3l4.787,1.884-.22,6.4,7.327,2.9,4.221-4.838,4.784,1.892L42.909,69.5l4.381,4.673,7.227-3.138-.447-6.379,4.719-2.051,1.891-4.791,6.411.2L69.97,50.7l-4.833-4.209ZM37.68,66.518A24.317,24.317,0,1,1,62,42.2,24.343,24.343,0,0,1,37.68,66.518Z" transform="translate(-5.393 -9.915)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
